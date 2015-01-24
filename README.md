@@ -14,6 +14,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##The repo contains the following files:
 
-*README.md
-*run_analysis.R //code for extracting a tidy dataset from the original
-*CodeBood.md //info about data, variables and changes from the original dataset
+* README.md
+* run_analysis.R //code for extracting a tidy dataset from the original
+* CodeBood.md //info about data, variables and changes from the original dataset
